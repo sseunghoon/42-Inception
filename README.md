@@ -28,3 +28,12 @@
 - Wordpress 웹 사이트 파일이 포함된 두 번째 볼륨
 - 컨테이너 간의 연결을 설정하는 도커 네트워크
 - crash가 발생할 경우 재시작 해야 합니다.
+
+## 아키텍처
+<img width="742" alt="image" src="https://github.com/sseunghoon/42_Inception-Infra/assets/45088611/3f079604-ac0f-4d99-bc0c-e9f54b1338dc">
+
+## Directory Structure
+<img width="509" alt="image" src="https://github.com/sseunghoon/42_Inception-Infra/assets/45088611/9271817c-ab60-4df1-96c6-f3e9b45a9d31">
+
+
+
